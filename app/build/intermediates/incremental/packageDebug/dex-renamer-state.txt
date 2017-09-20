@@ -1,0 +1,7 @@
+#Wed Sep 20 20:27:05 CST 2017
+base.0=E\:\\AndroidStudioProjects\\IconFont\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ccc5f244c9ecbbb1bd51faa5cf57076e9723a5a0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\AndroidStudioProjects\\IconFont\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_23f49b60b6903982831980610d6ace242822ea12\\classes.dex
+base.1=E\:\\AndroidStudioProjects\\IconFont\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_23f49b60b6903982831980610d6ace242822ea12
+file.0=E\:\\AndroidStudioProjects\\IconFont\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ccc5f244c9ecbbb1bd51faa5cf57076e9723a5a0\\classes.dex

@@ -1,0 +1,4 @@
+#Wed Sep 20 20:21:00 CST 2017
+base.0=E\:\\AndroidStudioProjects\\IconFont\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=E\:\\AndroidStudioProjects\\IconFont\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

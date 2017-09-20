@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\81688ed5f9809a1025dd833c730debf3dc60cfe6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\655081407109a184389a77b2ed96718d1581b973\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\6382a53b40c85c24c73c321afc26add61dbbe93a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\0f203c872d540e8a64e5cc2ab2fd27195f5120ce\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\e017aa8a333c599c0f656f08f5542216c6328620\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\348a495c791eb1f25d39480b426f62b9e42073c8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\426dbd9a0d9d4993d019615dc7ba560fbe8c61d8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\8772306a58798028f06aee941b6f4178ebbb20bf\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\90c81b47c7c11455f99b1c5c1e6c8aa80cf59f6a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\1a93ecfd47a4311ea2fd16cafe6975bf50ee6cfc\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.silang.iconfont.MainActivity
+ADDED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\81688ed5f9809a1025dd833c730debf3dc60cfe6\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\655081407109a184389a77b2ed96718d1581b973\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\6382a53b40c85c24c73c321afc26add61dbbe93a\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\0f203c872d540e8a64e5cc2ab2fd27195f5120ce\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\e017aa8a333c599c0f656f08f5542216c6328620\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\348a495c791eb1f25d39480b426f62b9e42073c8\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\426dbd9a0d9d4993d019615dc7ba560fbe8c61d8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\8772306a58798028f06aee941b6f4178ebbb20bf\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\90c81b47c7c11455f99b1c5c1e6c8aa80cf59f6a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\1a93ecfd47a4311ea2fd16cafe6975bf50ee6cfc\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\81688ed5f9809a1025dd833c730debf3dc60cfe6\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\IconFont\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\81688ed5f9809a1025dd833c730debf3dc60cfe6\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\655081407109a184389a77b2ed96718d1581b973\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\6382a53b40c85c24c73c321afc26add61dbbe93a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\0f203c872d540e8a64e5cc2ab2fd27195f5120ce\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\e017aa8a333c599c0f656f08f5542216c6328620\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\348a495c791eb1f25d39480b426f62b9e42073c8\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\426dbd9a0d9d4993d019615dc7ba560fbe8c61d8\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\8772306a58798028f06aee941b6f4178ebbb20bf\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\90c81b47c7c11455f99b1c5c1e6c8aa80cf59f6a\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\81688ed5f9809a1025dd833c730debf3dc60cfe6\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\81688ed5f9809a1025dd833c730debf3dc60cfe6\output\AndroidManifest.xml:26:9-47
